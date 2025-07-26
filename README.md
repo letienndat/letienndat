@@ -2,10 +2,9 @@
 
 - 👨‍💻 iOS Developer
 - 💻 Swift, Objective-C, Javascript
-- 🌱 Learning Mobile App
 
 ```
-Life is a wilderness, not a track.
+Life is unpredictable.
 ```
 
 @datlt.2k2
